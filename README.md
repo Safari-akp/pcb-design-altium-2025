@@ -39,6 +39,7 @@ Professional Printed Circuit Board designs created with **Altium Designer 2025**
 ![PCB02 3D](PCB-Images/PCB023D.PNG)
 ![PCB03 3D](PCB-Images/PCB033D.PNG)
 ![PCB04 3D](PCB-Images/PCB043D.PNG)
+![PCB05 3D](PCB-Images/PCB053D.PNG)
 ![PCB06 3D](PCB-Images/PCB063D.PNG)
 
 ### All PCB Designs
