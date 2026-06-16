@@ -2,8 +2,6 @@
 
 Professional Printed Circuit Board designs created with **Altium Designer 2025**.
 
-![RSB](RSB-3D.PNG)
-
 ## 📊 Project Summary
 - **6 × 2-Layer PCBs**
 - **1 × 4-Layer PCB**
