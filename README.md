@@ -1,39 +1,50 @@
-# My Design | Altium Designer 2025
+# PCB Design Portfolio | Altium Designer 2025
 
-Professional Printed Circuit Board (PCB) design created using **Altium Designer 2025**.
+Professional Printed Circuit Board designs created with **Altium Designer 2025**.
 
-![PCB 3D View](images/3d-view.png)  
-*(Add your best 3D screenshot here later)*
+![PCB 3D View](images/3d-view.png)
+*(Replace with your best 3D render later)*
 
-## 📋 Project Overview
+## 📊 Project Summary
+- **6 × 2-Layer PCBs**
+- **1 × 4-Layer PCB**
+- **Total:** 7 PCB Designs
 - **Software:** Altium Designer 2025
-- **Layers:** [Write number of layers, e.g. 4-Layer]
-- **Purpose:** [Example: IoT Sensor Board / Microcontroller Development Board / Power Management Board]
 
 ## ✨ Features
-- Complete schematic capture
-- Multi-layer PCB layout with optimized routing
-- High-quality component placement
-- Design Rule Check (DRC) clean
-- 3D visualization and mechanical integration
-- Ready for manufacturing (Gerber files included)
+- Complete schematic design and capture
+- Professional multi-layer PCB layout
+- Optimized component placement and routing
+- Design Rule Check (DRC) passed
+- 3D visualization and mechanical checks
+- Manufacturing-ready outputs (Gerber, Drill, BOM)
 
-## 📁 Project Contents
-- `.SchDoc` → Schematic files
-- `.PcbDoc` → PCB layout
-- `.PrjPcb` → Project file
-- 3D models and renders
-- Gerber & Drill files (for fabrication)
+## 📁 Projects Included
+- **6 Two-Layer Boards** – Compact and cost-effective designs
+- **1 Four-Layer Board** – Advanced design with better signal integrity and power distribution
+
+## 🛠️ Project Contents
+- `.PrjPcb` → Altium Project files
+- `.SchDoc` → Schematic documents
+- `.PcbDoc` → PCB layout files
+- Gerber files & NC Drill files
 - Bill of Materials (BOM)
+- 3D STEP models
 
 ## 🖼️ Gallery
 
-*(You will add screenshots here later)*
+*(Add your screenshots here)*
+
+**Examples to add:**
+- 3D renders of all boards
+- Schematic views
+- 2D PCB layouts (top & bottom)
+- Gerber preview
 
 ## 🔗 Links
-- [View Schematic](#)
-- [View 3D Render](#)
+- [My GitHub Profile](https://github.com/Safari-akp)
+- More electronics projects coming soon!
 
 ---
 
-**Made by Alireza Safari**
+**Made with ❤️ by Alireza Safari**
