@@ -30,8 +30,6 @@ Professional Printed Circuit Board designs created with **Altium Designer 2025**
 
 ## 🖼️ Gallery
 
-## 🖼️ Gallery
-
 ### 3D Renders
 ![RSB 3D Render](PCB-Images/RSB-3D.png)
 
