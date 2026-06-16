@@ -2,8 +2,7 @@
 
 Professional Printed Circuit Board designs created with **Altium Designer 2025**.
 
-![PCB 3D View](images/3d-view.png)
-*(Replace with your best 3D render later)*
+![RSB](RSB-3D.PNG)
 
 ## 📊 Project Summary
 - **6 × 2-Layer PCBs**
@@ -33,18 +32,17 @@ Professional Printed Circuit Board designs created with **Altium Designer 2025**
 
 ## 🖼️ Gallery
 
-*(Add your screenshots here)*
-
-**Examples to add:**
-- 3D renders of all boards
-- Schematic views
-- 2D PCB layouts (top & bottom)
-- Gerber preview
-
+![PCB 01](PCB01.PNG)
+![PCB 02](PCB02.PNG)
+![PCB 03](PCB03.PNG)
+![PCB 04](PCB04.PNG)
+![PCB 05](PCB05.PNG)
+![PCB 05](PCB053D.PNG)
+![PCB 06](PCB06.PNG)
+![RSB](RSB.PNG)
+![RSB](RSB-3D.PNG)
 ## 🔗 Links
 - [My GitHub Profile](https://github.com/Safari-akp)
-- More electronics projects coming soon!
-
 ---
 
-**Made with ❤️ by Alireza Safari**
+**Made by Alireza Safari**
