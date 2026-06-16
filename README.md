@@ -32,15 +32,28 @@ Professional Printed Circuit Board designs created with **Altium Designer 2025**
 
 ## 🖼️ Gallery
 
+## 🖼️ Gallery
+
+### 3D Renders
+![RSB 3D Render](RSB-3D.png)
+
+![PCB05 3D](PCB053D.PNG)
+
+### All PCB Designs
+
+**Relay PCBs:**
+
 ![PCB 01](PCB01.PNG)
 ![PCB 02](PCB02.PNG)
 ![PCB 03](PCB03.PNG)
 ![PCB 04](PCB04.PNG)
 ![PCB 05](PCB05.PNG)
-![PCB 05](PCB053D.PNG)
 ![PCB 06](PCB06.PNG)
-![RSB](RSB.PNG)
-![RSB](RSB-3D.PNG)
+
+**RSB Board:**
+
+![RSB Top/Bottom](RSB.PNG)
+
 ## 🔗 Links
 - [My GitHub Profile](https://github.com/Safari-akp)
 ---
